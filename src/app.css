@@ -1,5 +1,49 @@
 body {
   /* background-color: #545454; */
   /* color: #fff; */
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Code", Helvetica, Arial, sans-serif;
+}
+
+section {
+  padding: 1rem;
+  background-color:#282828;
+  color: #E0E0E0;
+  height: 100%;
+}
+
+nav {
+  background-color: #101010;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+  margin: 0rem;
+  padding: 0.5rem;
+}
+
+h1 {
+  font-size: 2rem;
+  padding: 0.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  padding: 0.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+  padding: 0.5rem;
+}
+p {
+  font-size: 1rem;
+  padding: 0.5rem;
+  text-align: justify;
+}
+
+ul, li {
+  font-size: 1rem;
+  padding: 0.5rem;
+  list-style-type: square;
+}
+
+article {
+  padding: 1rem;
 }

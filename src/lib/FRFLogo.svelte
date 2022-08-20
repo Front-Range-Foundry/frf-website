@@ -53,7 +53,7 @@
     font-size: 2rem;
     font-weight: bold;
     font-style: italic;
-    margin: 0.5rem;
+    margin: 0rem;
     margin-left: 1.75rem;
     font-family: 'impact', sans-serif;
   }
