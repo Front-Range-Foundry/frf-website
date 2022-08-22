@@ -2,13 +2,15 @@ body {
   /* background-color: #545454; */
   /* color: #fff; */
   font-family: "Fira Code", Helvetica, Arial, sans-serif;
+  background-color:#282828;
 }
 
 section {
   padding: 1rem;
-  background-color:#282828;
   color: #E0E0E0;
   height: 100%;
+  max-width: 700px;
+  margin: 0 auto;
 }
 
 nav {
